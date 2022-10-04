@@ -1,5 +1,12 @@
+/* font-family: 'Nanum Myeongjo', serif;
+font-family: 'Roboto', sans-serif; */
 body{
   width: 700px;
-  margin: auto;
-  background-color: purple;
+  margin: 30px auto;
+  background-color: Lavender;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+h1, h2, h3 {
+font-family: 'Roboto', sans-serif;
 }
